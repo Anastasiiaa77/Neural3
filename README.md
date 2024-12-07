@@ -32,7 +32,7 @@ LogisticRegression | 0.820 | 0.818 |
 **NeuralFCA** | **0.823** | **0.824** |
 
 FCA exhibited wery good results on the "70k+ Job Applicants Data (Human Resource)" dataset with Accuracy and F1 Score 0.823 and 0.824. In comparison, other machine learning models showed worse results than NeuralFCA
-![alt text](https://github.com/Anastasiiaa77/OSDA/blob/main/NeuralFCA/images/job_fitted.png)
+![alt text](https://github.com/Anastasiiaa77/NeuralFCA/blob/main/NeuralFCA/images/job_fitted.png)
 
 
 
